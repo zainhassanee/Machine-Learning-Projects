@@ -20,7 +20,7 @@ The Jupyter Notebooks contain step-by-step implementations, including data analy
 ## Applications  
 These projects demonstrate the application of machine learning in health, environmental sustainability, and business analytics. They can be extended with more data and advanced models for improved accuracy.  
 
-# Obesity Risk Prediction
+# 1)Obesity Risk Prediction
 
 ## Project Overview
 This project focuses on predicting the risk of obesity using machine learning models. By analyzing various health-related factors, the model estimates an individual's likelihood of being classified into different obesity categories.
@@ -45,7 +45,7 @@ The following techniques are used:
 Run the Jupyter Notebook to preprocess data, train models, and analyze results.
 
 
-# Predicting CO2 Emissions of Unobserved Cars
+# 2) Predicting CO2 Emissions of Unobserved Cars
 
 ## Project Overview
 This project aims to predict the CO2 emissions of cars based on their specifications. The model provides emission estimates for unseen vehicle data, helping in environmental impact assessments.
@@ -67,7 +67,7 @@ The model is trained using:
 Execute the Jupyter Notebook to preprocess data, train models, and generate predictions for unobserved cars.
 
 
-# Predicting Customer Churn in Telecom Industry
+# 3) Predicting Customer Churn in Telecom Industry
 
 ## Project Overview
 This project focuses on predicting whether telecom customers are likely to churn (leave the service provider). By analyzing customer behavior and service usage, the model helps in customer retention strategies.
